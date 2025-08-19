@@ -14,7 +14,11 @@
 
 ## 特定方法最优解
 
-待更。
+### 仅更改标准键盘布局
+
+下面方法不变更拼音输入法，不创造新按键，仅修改按键布局。
+
+![](./colemak_keyboard_layout.png)
 
 ## 全局最优解
 
@@ -23,3 +27,9 @@
 ## 尾记
 
 感兴趣合作者可联系。
+
+
+## 数据来源
+
+1. https://faculty.blcu.edu.cn/xinghb/zh_CN/article/167473/content/1437.htm （25亿字语料汉字字频表）
+2. https://lingua.mtsu.edu/chinese-computing/statistics/index.html (汉字单字频率列表)
